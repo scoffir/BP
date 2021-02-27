@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  27 FEB 2021 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  27 FEB 2021 15:42
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1800,11 +1800,11 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32249 strings out of 480777
- 604105 string characters out of 2894567
+ 32252 strings out of 480777
+ 604129 string characters out of 2894567
  1505788 words of memory out of 3000000
  47475 multiletter control sequences out of 15000+200000
- 580114 words of font info for 157 fonts, out of 3000000 for 9000
+ 580244 words of font info for 159 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,64p,819b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\scoff\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1815,7 +1815,7 @@ ase/8r.enc}<C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bachproef-tin.pdf (25 pages, 195578 bytes).
+Output written on bachproef-tin.pdf (25 pages, 196462 bytes).
 PDF statistics:
  223 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
