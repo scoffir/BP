@@ -1,28 +1,70 @@
 % Encoding: UTF-8
-@book{Knuth1998,
- author = {Knuth, Donald E.},
- title = {The art of computer programming,  volume 3: (2nd ed.) sorting and searching},
- year = {1998},
- publisher = {Addison Wesley Longman Publishing Co., Inc.},
- address = {Redwood City, CA, USA}
+
+@Article{Pilkington2016,
+  author       = {Marc Pilkington},
+  date         = {2016},
+  journaltitle = {Research handbook on digital transformations},
+  title        = {Blockchain technology: Principles and Applications},
+  doi          = {10.4337/9781784717766.00019},
 }
 
-@book{Pollefliet2011,
-  author = {Pollefliet, Leen},
-  title = {Schrijven van verslag tot eindwerk: do's en don'ts},
-  year = {2011},
-  publisher = {Academia Press},
-  address = {Gent}
+@Report{Hasselgren2020,
+  author      = {Anton Hasselgren and Paul Kenfai Wan and Margaret Horn and Katina Kralevska and Danilo Gligorski and Arild Faxvaag},
+  date        = {2020-09-27},
+  institution = {Norwegion University of Science an Technology},
+  title       = {GDPR Compliance for Blokchain Applications in Healthcare},
+  type        = {resreport},
+  doi         = {10.5121/csit.2020.101303},
 }
 
-@article{Creeger2009,
-  author = {Creeger, Mache},
-  journal = {Communications of the ACM},
-  number = {8},
-  pages = {50--56},
-  title = {{CTO Roundtable: Cloud Computing}},
-  volume = {52},
-  year = {2009}
+@Article{Mirchandani2019,
+  author       = {Anisha Mirchandani},
+  date         = {2019},
+  journaltitle = {Fordham Intellectual Property, Media and Entertain Law Journal},
+  title        = {The GDPR-Blockchain Paradox: Exempting Permissioned Blockchains from the GDPR},
+  eid          = {5},
+  number       = {4},
+  volume       = {29},
+}
+
+@Report{Finck2019,
+  author      = {Michèle Finck},
+  date        = {2019},
+  institution = {European Parliamentary Research Service},
+  title       = {Blockchain and the General Data Protection Regulation},
+  type        = {resreport},
+  subtitle    = {Can distributed ledgers be squared with European data protection law?},
+}
+
+@Report{Niaz2015,
+  author      = {Muhammad Saqib Niaz and Gunter Saake},
+  date        = {2015},
+  institution = {Department of Computer Science, Otto von Guericke University, Magdeburg, Germany},
+  title       = {Merkle Hash Tree based Techniques for Data Integrity of Outsourced Data},
+  type        = {resreport},
+}
+
+@Report{Yaga2018,
+  author      = {Dylan Yaga and Peter Mell and Nik Roby and Karen Scarfone},
+  date        = {2018-10},
+  institution = {National Institute of Standards and Technology},
+  title       = {Blockchain Technology overview},
+  type        = {resreport},
+  doi         = {10.6028/nist.ir.8202},
+}
+
+@Article{Nofer2017,
+  author  = {Nofer, Michael and Gomber, Peter and Hinz, Oliver and Schiereck, Dirk},
+  title   = {Blockchain},
+  doi     = {10.1007/s12599-017-0467-3},
+  issn    = {1867-0202},
+  number  = {3},
+  pages   = {183--187},
+  url     = {https://doi.org/10.1007/s12599-017-0467-3},
+  volume  = {59},
+  journal = {Business & Information Systems Engineering},
+  refid   = {Nofer2017},
+  year    = {2017},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

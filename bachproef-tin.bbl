@@ -111,6 +111,9 @@
       \field{type}{resreport}
       \field{year}{2020}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.5121/csit.2020.101303
+      \endverb
     \endentry
     \entry{Mirchandani2019}{article}{}
       \name{author}{1}{}{%
@@ -178,6 +181,64 @@
       \field{year}{2015}
       \field{dateera}{ce}
     \endentry
+    \entry{Nofer2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=da2c17d84f30e35f5da981907b3346a5}{%
+           family={Nofer},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f957a80d7332069cae1d2c5d2536bb8}{%
+           family={Gomber},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89b7c6cf134ca41ef0a96174c7642cc7}{%
+           family={Hinz},
+           familyi={H\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=526ba2fee005b53e7d2eeae289e5d5f3}{%
+           family={Schiereck},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a657efc93b6e4361d0e1ab3a2dcc3ed1}
+      \strng{fullhash}{7f57d05280e98f1d721a80e2cac94cd0}
+      \strng{bibnamehash}{7f57d05280e98f1d721a80e2cac94cd0}
+      \strng{authorbibnamehash}{7f57d05280e98f1d721a80e2cac94cd0}
+      \strng{authornamehash}{a657efc93b6e4361d0e1ab3a2dcc3ed1}
+      \strng{authorfullhash}{7f57d05280e98f1d721a80e2cac94cd0}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1867-0202}
+      \field{journaltitle}{Business \& Information Systems Engineering}
+      \field{number}{3}
+      \field{title}{Blockchain}
+      \field{volume}{59}
+      \field{year}{2017}
+      \field{pages}{183\bibrangedash 187}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/s12599-017-0467-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s12599-017-0467-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s12599-017-0467-3
+      \endverb
+    \endentry
     \entry{Pilkington2016}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=667f021aa96e9cbbb8dcf63f8f5aad88}{%
@@ -204,10 +265,64 @@
       \field{title}{Blockchain technology: Principles and Applications}
       \field{year}{2016}
       \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4337/9781784717766.00019
+      \endverb
+    \endentry
+    \entry{Yaga2018}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bdfe2c2ab6cb98ded524796ccf8b5c9c}{%
+           family={Yaga},
+           familyi={Y\bibinitperiod},
+           given={Dylan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac098e5805fbc204d757a7083c69ac6}{%
+           family={Mell},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca5a5af1ce1f9d4887ffa1f2cdc801eb}{%
+           family={Roby},
+           familyi={R\bibinitperiod},
+           given={Nik},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ea98e3682d33480471e822adaacdc41}{%
+           family={Scarfone},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{af30e963a928161d42a5c7355a76131d}
+      \strng{fullhash}{f29374f4f9bad74e182034412013c00c}
+      \strng{bibnamehash}{f29374f4f9bad74e182034412013c00c}
+      \strng{authorbibnamehash}{f29374f4f9bad74e182034412013c00c}
+      \strng{authornamehash}{af30e963a928161d42a5c7355a76131d}
+      \strng{authorfullhash}{f29374f4f9bad74e182034412013c00c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Blockchain Technology overview}
+      \field{type}{resreport}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.6028/nist.ir.8202
+      \endverb
     \endentry
   \enddatalist
-  \missing{Creeger2009}
-  \missing{Knuth1998}
   \missing{Pollefliet2011}
 \endrefsection
 \endinput
