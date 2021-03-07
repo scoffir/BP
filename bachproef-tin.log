@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  27 FEB 2021 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  7 MAR 2021 10:57
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1513,9 +1513,30 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `bachproef-tin.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'bachproef-tin.bbl' not found.
+Package biblatex Info: ... file 'bachproef-tin.bbl' found.
+ (bachproef-tin.bbl
 
-No file bachproef-tin.bbl.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Creeger2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Knuth1998
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Pollefliet2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 44.
 Package biblatex Info: Reference segment=0 on input line 44.
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1555,7 +1576,7 @@ File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type png)
 <use img/HOGENT_Logo_Pos_rgb.png>
 Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 54.
 (pdftex.def)             Requested size: 71.13188pt x 40.08864pt.
-[1
+ [1
 
 
 
@@ -1637,19 +1658,18 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
-)
+ [7
+
+])
 \tf@toc=\write6
 \openout6 = `bachproef-tin.toc'.
 
- [7
-
-] [8
-
-] (bachproef-tin.lof)
+ [8] (bachproef-tin.lof)
 \tf@lof=\write7
 \openout7 = `bachproef-tin.lof'.
 
  [9
+
 
 ] [10
 
@@ -1661,9 +1681,6 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 
 ]
 Hoofdstuk 1.
-
-LaTeX Warning: Citation 'Pollefliet2011' on page 13 undefined on input line 8.
-
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 1.
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
@@ -1674,12 +1691,8 @@ Underfull \vbox (badness 5133) has occurred while \output is active []
  [13])
 (standvanzaken.tex [14]
 Hoofdstuk 2.
-
-LaTeX Warning: Citation 'Pollefliet2011' on page 15 undefined on input line 10.
-
-
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 12.
+ 18.
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd
 "
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -1689,21 +1702,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 12.
+ 18.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd
 "
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 12.
+ 18.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd
 "
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 12.
+ 18.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd
 "
@@ -1718,19 +1731,19 @@ fg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-2.
+8.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-2.
+8.
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1739,18 +1752,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-
-LaTeX Warning: Citation 'Knuth1998' on page 15 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Creeger2009' on page 15 undefined on input line 15.
-
-)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15
 
-]
+])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
@@ -1775,49 +1781,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ])
 [22]
 B"ylage A.
+(../voorstel/voorstel-inhoud.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Empty bibliography on input line 128.
-
-[23
+ [23
 
 ]
+[24]) [25] [26
+
+] [27]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (bachproef-tin.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 130.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                bachproef-tin
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32252 strings out of 480777
- 604129 string characters out of 2894567
- 1505788 words of memory out of 3000000
- 47475 multiletter control sequences out of 15000+200000
- 580244 words of font info for 159 fonts, out of 3000000 for 9000
+ 32376 strings out of 480777
+ 606464 string characters out of 2894567
+ 1506445 words of memory out of 3000000
+ 47551 multiletter control sequences out of 15000+200000
+ 584593 words of font info for 176 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,64p,819b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\scoff\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1200.pk>{C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+ 68i,12n,64p,927b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+} <C:\Users\scoff\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+ctt1200.pk><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/avantgar/uagd8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bachproef-tin.pdf (25 pages, 196462 bytes).
+s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/scoff/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bachproef-tin.pdf (29 pages, 230429 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 23642 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 27786 words of extra memory for PDF output out of 29859 (max. 10000000)
 

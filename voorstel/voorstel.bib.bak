@@ -34,12 +34,6 @@
   subtitle    = {Can distributed ledgers be squared with European data protection law?},
 }
 
-@Report{Niaz2015,
-  author      = {Muhammad Saqib Niaz and Gunter Saake},
-  date        = {2015},
-  institution = {Department of Computer Science, Otto von Guericke University, Magdeburg, Germany},
-  title       = {Merkle Hash Tree based Techniques for Data Integrity of Outsourced Data},
-  type        = {resreport},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-scoff-DESKTOP-OQ11CDV:C:\\Users\\scoff\\OneDrive\\Bureaublad\\BP\\voorstel;}

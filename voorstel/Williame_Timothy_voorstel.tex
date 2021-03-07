@@ -1,0 +1,76 @@
+%==============================================================================
+% Sjabloon onderzoeksvoorstel bachelorproef
+%==============================================================================
+% Gebaseerd op LaTeX-sjabloon ‘Stylish Article’ (zie voorstel.cls)
+% Auteur: Jens Buysse, Bert Van Vreckem
+%
+% Compileren in TeXstudio:
+%
+% - Zorg dat Biber de bibliografie compileert (en niet Biblatex)
+%   Options > Configure > Build > Default Bibliography Tool: "txs:///biber"
+% - F5 om te compileren en het resultaat te bekijken.
+% - Als de bibliografie niet zichtbaar is, probeer dan F5 - F8 - F5
+%   Met F8 compileer je de bibliografie apart.
+%
+% Als je JabRef gebruikt voor het bijhouden van de bibliografie, zorg dan
+% dat je in ``biblatex''-modus opslaat: File > Switch to BibLaTeX mode.
+
+\documentclass{voorstel}
+
+\usepackage{lipsum}
+
+%------------------------------------------------------------------------------
+% Metadata over het voorstel
+%------------------------------------------------------------------------------
+
+%---------- Titel & auteur ----------------------------------------------------
+
+\PaperTitle{Blockchain als centraal verzamelpunt om patiëntendossiers op te slaan binnen de Belgische en Europese regelgeving}
+\PaperType{Onderzoeksvoorstel Bachelorproef 2020-2021} % Type document
+
+\Authors{Timothy Williame\textsuperscript{1}} % Authors
+\CoPromotor{Wim Van Renterghem\textsuperscript{2} (Howest)}
+\affiliation{\textbf{Contact:}
+  \textsuperscript{1} \href{mailto:timothy.williame.y6980@student.hogent.be}{timothy.williame.y6980@student.hogent.be};
+  \textsuperscript{2} \href{mailto:wim.van.renterghem@howest.be}{wim.van.renterghem@howest.be};
+}
+
+%---------- Abstract ----------------------------------------------------------
+
+\Abstract{In deze bachelorproef wordt er onderzocht of blockchain gebruikt kan worden om een centraal aanmeldpunt voor patiëntendossiers te creëren met respect voor de Belgische privacywetgeving en de Europese GDPR. De coronapandemie van 2020 heeft aangetoond dat een snelle toegang tot patiëntendossiers belangrijk is om deze accuraat in kaart te brengen. Deze toegang moet wel in concordantie zijn met de huidige wetten en regels rond personal data. Er zal onderzocht worden of er een draagvlak is voor dit systeem en of dit kan gecreëerd worden binnen de huidige wetten en regelgeving. De verwachting is dat hoewel er een draagvlak zal zijn voor dit systeem dat de eigenschappen van blockchain niet te combineren zijn met de GDPR.
+}
+
+%---------- Onderzoeksdomein en sleutelwoorden --------------------------------
+
+\Keywords{Onderzoeksdomein. Blockchain --- Big Data --- Wetgeving --- Gezondheidzorg} % Keywords
+\newcommand{\keywordname}{Sleutelwoorden} % Defines the keywords heading name
+
+%---------- Titel, inhoud -----------------------------------------------------
+
+\begin{document}
+
+\flushbottom % Makes all text pages the same height
+\maketitle % Print the title and abstract box
+\tableofcontents % Print the contents section
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%------------------------------------------------------------------------------
+% Hoofdtekst
+%------------------------------------------------------------------------------
+
+% De hoofdtekst van het voorstel zit in een apart bestand, zodat het makkelijk
+% kan opgenomen worden in de bijlagen van de bachelorproef zelf.
+\input{voorstel-inhoud}
+
+%------------------------------------------------------------------------------
+% Referentielijst
+%------------------------------------------------------------------------------
+% TODO: de gerefereerde werken moeten in BibTeX-bestand ``voorstel.bib''
+% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
+% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
+% BibLaTeX mode)
+
+\phantomsection
+\printbibliography[heading=bibintoc]
+
+\end{document}

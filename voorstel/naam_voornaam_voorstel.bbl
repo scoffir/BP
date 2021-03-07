@@ -1,0 +1,211 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Finck2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=097d2abe01d9a68fd546644ddf980bd3}{%
+           family={Finck},
+           familyi={F\bibinitperiod},
+           given={Michèle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {European Parliamentary Research Service}%
+      }
+      \strng{namehash}{097d2abe01d9a68fd546644ddf980bd3}
+      \strng{fullhash}{097d2abe01d9a68fd546644ddf980bd3}
+      \strng{bibnamehash}{097d2abe01d9a68fd546644ddf980bd3}
+      \strng{authorbibnamehash}{097d2abe01d9a68fd546644ddf980bd3}
+      \strng{authornamehash}{097d2abe01d9a68fd546644ddf980bd3}
+      \strng{authorfullhash}{097d2abe01d9a68fd546644ddf980bd3}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Can distributed ledgers be squared with European data protection law?}
+      \field{title}{Blockchain and the General Data Protection Regulation}
+      \field{type}{resreport}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Hasselgren2020}{report}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=4a5af77301bb3cf04c5a96e9b7648423}{%
+           family={Hasselgren},
+           familyi={H\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1492e775c7babc604d4dccb484d43e2}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Paul\bibnamedelima Kenfai},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcba318f0ae7f0d4cef2aaef1f15574e}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3b52f88356f5c6b1c834e4d6e81fa60}{%
+           family={Kralevska},
+           familyi={K\bibinitperiod},
+           given={Katina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=389a432f3c4a908124e5b42bcaa75780}{%
+           family={Gligorski},
+           familyi={G\bibinitperiod},
+           given={Danilo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211d0740852efdf063fed832ea21750c}{%
+           family={Faxvaag},
+           familyi={F\bibinitperiod},
+           given={Arild},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Norwegion University of Science an Technology}%
+      }
+      \strng{namehash}{2814c3719cac9acd7240c333caf572cd}
+      \strng{fullhash}{12f1f36b7ecca022143bac73fb7351eb}
+      \strng{bibnamehash}{12f1f36b7ecca022143bac73fb7351eb}
+      \strng{authorbibnamehash}{12f1f36b7ecca022143bac73fb7351eb}
+      \strng{authornamehash}{2814c3719cac9acd7240c333caf572cd}
+      \strng{authorfullhash}{12f1f36b7ecca022143bac73fb7351eb}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{9}
+      \field{title}{GDPR Compliance for Blokchain Applications in Healthcare}
+      \field{type}{resreport}
+      \field{year}{2020}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Mirchandani2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe837d0877496f277af458fc0e0b2f38}{%
+           family={Mirchandani},
+           familyi={M\bibinitperiod},
+           given={Anisha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe837d0877496f277af458fc0e0b2f38}
+      \strng{fullhash}{fe837d0877496f277af458fc0e0b2f38}
+      \strng{bibnamehash}{fe837d0877496f277af458fc0e0b2f38}
+      \strng{authorbibnamehash}{fe837d0877496f277af458fc0e0b2f38}
+      \strng{authornamehash}{fe837d0877496f277af458fc0e0b2f38}
+      \strng{authorfullhash}{fe837d0877496f277af458fc0e0b2f38}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{5}
+      \field{journaltitle}{Fordham Intellectual Property, Media and Entertain Law Journal}
+      \field{number}{4}
+      \field{title}{The GDPR-Blockchain Paradox: Exempting Permissioned Blockchains from the GDPR}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Niaz2015}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d3ed6a0da3637b984fb1098764c35ae3}{%
+           family={Niaz},
+           familyi={N\bibinitperiod},
+           given={Muhammad\bibnamedelima Saqib},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a5ae6c3a7deb62e4508c393839b89cc}{%
+           family={Saake},
+           familyi={S\bibinitperiod},
+           given={Gunter},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Department of Computer Science, Otto von Guericke University, Magdeburg, Germany}%
+      }
+      \strng{namehash}{f0a54c56974f666c7b3983673336cb07}
+      \strng{fullhash}{f0a54c56974f666c7b3983673336cb07}
+      \strng{bibnamehash}{f0a54c56974f666c7b3983673336cb07}
+      \strng{authorbibnamehash}{f0a54c56974f666c7b3983673336cb07}
+      \strng{authornamehash}{f0a54c56974f666c7b3983673336cb07}
+      \strng{authorfullhash}{f0a54c56974f666c7b3983673336cb07}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Merkle Hash Tree based Techniques for Data Integrity of Outsourced Data}
+      \field{type}{resreport}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Pilkington2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=667f021aa96e9cbbb8dcf63f8f5aad88}{%
+           family={Pilkington},
+           familyi={P\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \strng{fullhash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \strng{bibnamehash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \strng{authorbibnamehash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \strng{authornamehash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \strng{authorfullhash}{667f021aa96e9cbbb8dcf63f8f5aad88}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research handbook on digital transformations}
+      \field{title}{Blockchain technology: Principles and Applications}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

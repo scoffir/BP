@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>bachproef-tin.bcf</file>
+      <file>Williame_Timothy_voorstel.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>bachproef-tin.bbl</file>
+      <file>Williame_Timothy_voorstel.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -70,23 +70,22 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>bachproef-tin</infile>
+      <infile>Williame_Timothy_voorstel</infile>
     </cmdline>
     <input>
-      <file>bachproef-tin.bcf</file>
+      <file>Williame_Timothy_voorstel.bcf</file>
     </input>
     <output>
-      <file>bachproef-tin.bbl</file>
+      <file>Williame_Timothy_voorstel.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>bachproef-tin.bbl</file>
+      <file>Williame_Timothy_voorstel.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>bachproef-tin.bcf</file>
+      <file>Williame_Timothy_voorstel.bcf</file>
     </requires>
     <requires type="editable">
-      <file>bachproef-tin.bib</file>
-      <file>../voorstel/voorstel.bib</file>
+      <file>voorstel.bib</file>
     </requires>
   </external>
 </requests>

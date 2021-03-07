@@ -18,4 +18,16 @@
 \contentsline {chapter}{\numberline {4}Conclusie}{21}{chapter.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{23}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{23}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Stand van zaken}{24}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{24}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{24}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{25}{section.A.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{27}{appendix*.6}%
 \contentsfinish 

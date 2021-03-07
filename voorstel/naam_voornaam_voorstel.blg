@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'naam_voornaam_voorstel.blg'
+[59] biber-MSWIN64:322> INFO - === 
+[76] Biber.pm:415> INFO - Reading 'naam_voornaam_voorstel.bcf'
+[186] Biber.pm:943> INFO - Found 5 citekeys in bib section 0
+[201] Biber.pm:4256> INFO - Processing section 0
+[201] Utils.pm:75> INFO - Globbing data source 'voorstel.bib'
+[219] Utils.pm:91> INFO - Globbed data source 'voorstel.bib' to voorstel.bib
+[232] Biber.pm:4455> INFO - Looking for bibtex format file 'voorstel.bib' for section 0
+[235] bibtex.pm:1653> INFO - LaTeX decoding ...
+[243] bibtex.pm:1471> INFO - Found BibTeX data source 'voorstel.bib'
+[287] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[287] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[288] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[288] Biber.pm:4090> INFO - No sort tailoring available for locale 'nl-NL'
+[293] bbl.pm:652> INFO - Writing 'naam_voornaam_voorstel.bbl' with encoding 'UTF-8'
+[296] bbl.pm:755> INFO - Output to naam_voornaam_voorstel.bbl
