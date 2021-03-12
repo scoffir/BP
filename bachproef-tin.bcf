@@ -2793,19 +2793,13 @@
     <bcf:citekey order="1">Pollefliet2011</bcf:citekey>
     <bcf:citekey order="2">Yaga2018</bcf:citekey>
     <bcf:citekey order="3">Nofer2017</bcf:citekey>
-    <bcf:citekey order="4">Hasselgren2020</bcf:citekey>
+    <bcf:citekey order="4">Pilkington2016</bcf:citekey>
     <bcf:citekey order="5">Hasselgren2020</bcf:citekey>
-    <bcf:citekey order="6">Pilkington2016</bcf:citekey>
-    <bcf:citekey order="7">Mirchandani2019</bcf:citekey>
-    <bcf:citekey order="8">Finck2019</bcf:citekey>
-    <bcf:citekey order="9">Niaz2015</bcf:citekey>
-    <bcf:citekey order="10">Pilkington2016</bcf:citekey>
-    <bcf:citekey order="11">Hasselgren2020</bcf:citekey>
-    <bcf:citekey order="12">Hasselgren2020</bcf:citekey>
-    <bcf:citekey order="13">Pilkington2016</bcf:citekey>
-    <bcf:citekey order="14">Mirchandani2019</bcf:citekey>
-    <bcf:citekey order="15">Finck2019</bcf:citekey>
-    <bcf:citekey order="16">Niaz2015</bcf:citekey>
+    <bcf:citekey order="6">Hasselgren2020</bcf:citekey>
+    <bcf:citekey order="7">Pilkington2016</bcf:citekey>
+    <bcf:citekey order="8">Mirchandani2019</bcf:citekey>
+    <bcf:citekey order="9">Finck2019</bcf:citekey>
+    <bcf:citekey order="10">Niaz2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  12 MAR 2021 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  12 MAR 2021 13:18
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1642,12 +1642,15 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [7])
 \tf@toc=\write6
 \openout6 = `bachproef-tin.toc'.
 
- [8]
-(bachproef-tin.lof)
+
+[8] (bachproef-tin.lof)
 \tf@lof=\write7
 \openout7 = `bachproef-tin.lof'.
 
@@ -1660,7 +1663,8 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 \tf@lot=\write8
 \openout8 = `bachproef-tin.lot'.
 
- (inleiding.tex [11] [12
+ (inleiding.tex [11]
+[12
 
 ]
 Hoofdstuk 1.
@@ -1676,13 +1680,13 @@ Underfull \vbox (badness 5133) has occurred while \output is active []
 Hoofdstuk 2.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 16.
-[15
+) (methodologie.tex [15
 
-]) (methodologie.tex [16]
+] [16
+
+]
 Hoofdstuk 3.
-) (conclusie.tex [17
-
-] [18
+) (conclusie.tex [17] [18
 
 ]
 Hoofdstuk 4.
@@ -1765,26 +1769,23 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32364 strings out of 480777
- 606139 string characters out of 2894567
+ 32368 strings out of 480777
+ 606170 string characters out of 2894567
  1506533 words of memory out of 3000000
  47549 multiletter control sequences out of 15000+200000
- 587209 words of font info for 168 fonts, out of 3000000 for 9000
+ 588750 words of font info for 171 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,64p,927b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{appendix*.6} has been referenced but does not exi
-st, replaced by a fixed one
-
-{C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8
-a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/avantga
-r/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-urw/times/utmr8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (27 pages, 204201 bytes).
+ 68i,11n,64p,927b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/avantgar/uag
+d8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/avant
+gar/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/urw/times/utmr8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on bachproef-tin.pdf (27 pages, 202982 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 31386 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 33434 words of extra memory for PDF output out of 35830 (max. 10000000)
 
