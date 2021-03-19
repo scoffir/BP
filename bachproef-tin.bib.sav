@@ -67,4 +67,13 @@
   year    = {2017},
 }
 
+@Article{Liu,
+  author       = {Liu, Manlu and Wu, Kean and Jie Xu, Jennifer},
+  date         = {2019-09-21},
+  journaltitle = {Current issues in auditing},
+  title        = {How will blochain technology impact auditing and accounting: Permissionless versus Permissioned blockchain},
+  number       = {2},
+  volume       = {13},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
