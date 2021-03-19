@@ -21,6 +21,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Permissioned}{16}{section*.7}%
 \defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{Permissioned centralized blockchain}{16}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Belgische wetgeving}{16}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}GDPR}{16}{section.2.3}%
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{17}{chapter.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Conclusie}{19}{chapter.4}%
@@ -37,5 +43,5 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A.5}Verwachte conclusies}{23}{section.A.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{25}{appendix*.8}%
+\contentsline {chapter}{Bibliografie}{25}{appendix*.9}%
 \contentsfinish 
