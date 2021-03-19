@@ -73,7 +73,16 @@
   journaltitle = {Current issues in auditing},
   title        = {How will blochain technology impact auditing and accounting: Permissionless versus Permissioned blockchain},
   number       = {2},
+  pages        = {19-29},
   volume       = {13},
+}
+
+@Report{Nakamoto2008,
+  author      = {Satoshi Nakamoto},
+  date        = {2008},
+  institution = {www.b},
+  title       = {Bitcoin: A Peer-to-Peer Electronic Cash System},
+  type        = {resreport},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

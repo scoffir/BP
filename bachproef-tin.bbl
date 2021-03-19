@@ -115,6 +115,51 @@
       \verb 10.5121/csit.2020.101303
       \endverb
     \endentry
+    \entry{Liu}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3bcedde17625187a326ed9f0a6dcbc1c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Manlu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35f88a43d1ada13032a0c3df37426896}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Kean},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e7c222f253193c8f6fdae23e74a2d60}{%
+           family={Jie\bibnamedelima Xu},
+           familyi={J\bibinitperiod\bibinitdelim X\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d298d5b4a7a6117c675eaa02b796d02}
+      \strng{fullhash}{86ec4aebcb4e6a42d3d77a15279d0cbe}
+      \strng{bibnamehash}{86ec4aebcb4e6a42d3d77a15279d0cbe}
+      \strng{authorbibnamehash}{86ec4aebcb4e6a42d3d77a15279d0cbe}
+      \strng{authornamehash}{7d298d5b4a7a6117c675eaa02b796d02}
+      \strng{authorfullhash}{86ec4aebcb4e6a42d3d77a15279d0cbe}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{journaltitle}{Current issues in auditing}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{How will blochain technology impact auditing and accounting: Permissionless versus Permissioned blockchain}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{19\bibrangedash 29}
+      \range{pages}{11}
+    \endentry
     \entry{Mirchandani2019}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fe837d0877496f277af458fc0e0b2f38}{%
@@ -143,6 +188,36 @@
       \field{title}{The GDPR-Blockchain Paradox: Exempting Permissioned Blockchains from the GDPR}
       \field{volume}{29}
       \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Nakamoto2008}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {www.bitcoin.org}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
+      \field{type}{resreport}
+      \field{year}{2008}
       \field{dateera}{ce}
     \endentry
     \entry{Niaz2015}{report}{}

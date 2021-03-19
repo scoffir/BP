@@ -62,9 +62,27 @@
   pages   = {183--187},
   url     = {https://doi.org/10.1007/s12599-017-0467-3},
   volume  = {59},
-  journal = {Business & Information Systems Engineering},
+  journal = {Business \& Information Systems Engineering},
   refid   = {Nofer2017},
   year    = {2017},
+}
+
+@Article{Liu,
+  author       = {Liu, Manlu and Wu, Kean and Jie Xu, Jennifer},
+  date         = {2019-09-21},
+  journaltitle = {Current issues in auditing},
+  title        = {How will blochain technology impact auditing and accounting: Permissionless versus Permissioned blockchain},
+  number       = {2},
+  pages        = {19-29},
+  volume       = {13},
+}
+
+@Report{Nakamoto2008,
+  author      = {Satoshi Nakamoto},
+  date        = {2008},
+  institution = {www.bitcoin.org},
+  title       = {Bitcoin: A Peer-to-Peer Electronic Cash System},
+  type        = {resreport},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
