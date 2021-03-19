@@ -19,7 +19,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Permissionless}{15}{section*.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Permisioned}{16}{section*.7}%
+\contentsline {paragraph}{Permissioned}{16}{section*.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{17}{chapter.3}%
 \defcounter {refsection}{0}\relax 
