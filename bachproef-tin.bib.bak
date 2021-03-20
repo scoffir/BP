@@ -80,7 +80,7 @@
 @Report{Nakamoto2008,
   author      = {Satoshi Nakamoto},
   date        = {2008},
-  institution = {www.bitcoin.org},
+  institution = {www.b},
   title       = {Bitcoin: A Peer-to-Peer Electronic Cash System},
   type        = {resreport},
 }
