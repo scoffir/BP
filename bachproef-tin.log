@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  20 MAR 2021 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  20 MAR 2021 16:45
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1332,6 +1332,19 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip166
 \droptitle=\skip167
 ))
+("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box69
+\beforetitleunit=\skip168
+\aftertitleunit=\skip169
+\ttl@plus=\dimen289
+\ttl@minus=\dimen290
+\ttl@toksa=\toks48
+\titlewidth=\dimen291
+\titlewidthlast=\dimen292
+\titlewidthfirst=\dimen293
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1339,23 +1352,23 @@ Package csquotes Info: Redefining alias 'default' -> 'dutch'.
  (bachproef-tin.aux)
 \openout1 = `bachproef-tin.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 44
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 45
 .
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
@@ -1400,16 +1413,16 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count473
-\scratchdimen=\dimen289
-\scratchbox=\box69
+\scratchdimen=\dimen294
+\scratchbox=\box70
 \nofMPsegments=\count474
 \nofMParguments=\count475
-\everyMPshowfont=\toks48
+\everyMPshowfont=\toks49
 \MPscratchCnt=\count476
-\MPscratchDim=\dimen290
+\MPscratchDim=\dimen295
 \MPnumerator=\count477
 \makeMPintoPDFobject=\count478
-\everyMPtoPDFconversion=\toks49
+\everyMPtoPDFconversion=\toks50
 )
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
@@ -1419,14 +1432,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 \c@lstlisting=\count479
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 44.
+LaTeX Info: Redefining \microtypecontext on input line 45.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 44.
+LaTeX Info: Redefining \showhyphens on input line 45.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1435,8 +1448,8 @@ Package microtype Info: No adjustment of character kerning.
 fg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-\AtBeginShipoutBox=\box70
-Package hyperref Info: Link coloring OFF on input line 44.
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring OFF on input line 45.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1452,9 +1465,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count480
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
 
@@ -1523,8 +1536,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 44.
-Package biblatex Info: Reference segment=0 on input line 44.
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1560,7 +1573,7 @@ Package biblatex Info: Reference segment=0 on input line 44.
 <img/HOGENT_Logo_Pos_rgb.png, id=6, 3503.0875pt x 1975.38pt>
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type png)
 <use img/HOGENT_Logo_Pos_rgb.png>
-Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 54.
+Package pdftex.def Info: img/HOGENT_Logo_Pos_rgb.png  used on input line 55.
 (pdftex.def)             Requested size: 71.13188pt x 40.08864pt.
  [1
 
@@ -1606,7 +1619,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \inserttitlepage
+l.55 \inserttitlepage
                       [1
 
 
@@ -1643,7 +1656,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4467) has occurred while \output is active []
 
  [7])
 \tf@toc=\write6
@@ -1672,13 +1685,21 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 1.
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [13]) (standvanzaken.tex [14]
+)
+Underfull \vbox (badness 1163) has occurred while \output is active []
+
+ [13])
+(standvanzaken.tex [14]
 Hoofdstuk 2.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 16.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 20.
 [15
 
-]) (methodologie.tex [16]
+]
+
+LaTeX Warning: Citation 'Bacon2018' on page 16 undefined on input line 43.
+
+) (methodologie.tex [16]
 Hoofdstuk 3.
 ) (conclusie.tex [17
 
@@ -1698,7 +1719,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 128.
+ 129.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd
 "
@@ -1709,21 +1730,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 128.
+ 129.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd
 "
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 128.
+ 129.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd
 "
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 128.
+ 129.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd
 "
@@ -1738,32 +1759,41 @@ fg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-28.
+29.
 
 ("C:\Users\scoff\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
 [25] [26]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
  (bachproef-tin.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 132.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 132.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                bachproef-tin
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 \openout1 = `bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32389 strings out of 480777
- 606481 string characters out of 2894567
- 1507596 words of memory out of 3000000
- 47555 multiletter control sequences out of 15000+200000
+ 32638 strings out of 480777
+ 609744 string characters out of 2894567
+ 1514279 words of memory out of 3000000
+ 47803 multiletter control sequences out of 15000+200000
  589140 words of font info for 177 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,64p,927b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1774,9 +1804,9 @@ gar/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmr8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (28 pages, 210271 bytes).
+Output written on bachproef-tin.pdf (28 pages, 212546 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 33450 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 33458 words of extra memory for PDF output out of 35830 (max. 10000000)
 
