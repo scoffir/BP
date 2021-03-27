@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  20 MAR 2021 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7420 64-bit) (preloaded format=pdflatex 2020.5.14)  27 MAR 2021 21:11
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1656,7 +1656,7 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 
-Underfull \vbox (badness 4467) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7])
 \tf@toc=\write6
@@ -1688,12 +1688,15 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [13]) (standvanzaken.tex [14]
 Hoofdstuk 2.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 20.
-[15
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 17.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
 
 ]
 
-LaTeX Warning: Citation 'Bacon2018' on page 16 undefined on input line 43.
+LaTeX Warning: Citation 'Bacon2018' on page 16 undefined on input line 37.
 
 ) (methodologie.tex [16]
 Hoofdstuk 3.
@@ -1786,10 +1789,10 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32638 strings out of 480777
- 609744 string characters out of 2894567
- 1514279 words of memory out of 3000000
- 47803 multiletter control sequences out of 15000+200000
+ 32637 strings out of 480777
+ 609715 string characters out of 2894567
+ 1514254 words of memory out of 3000000
+ 47801 multiletter control sequences out of 15000+200000
  589140 words of font info for 177 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,64p,927b,4662s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1800,9 +1803,9 @@ gar/uagk8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmr8a.pfb><C:/Users/scoff/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (28 pages, 212662 bytes).
+Output written on bachproef-tin.pdf (28 pages, 211433 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 33458 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 326 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 33466 words of extra memory for PDF output out of 35830 (max. 10000000)
 
