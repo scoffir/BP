@@ -94,4 +94,14 @@
   volume       = {25},
 }
 
+@Article{Aiqing2018,
+  author       = {Aiqing, Zhang and Xiaodong, Lin},
+  date         = {2018-06-28},
+  journaltitle = {Journal of Medical Systems},
+  title        = {Towards Secure and Privacy-Preserving Data Sharing in e-Health Systems via Consortium Blockchain},
+  doi          = {10.1007/s10916-018-0995-5},
+  number       = {140},
+  volume       = {42},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

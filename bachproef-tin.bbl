@@ -19,6 +19,93 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Aiqing2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=477faa9e128bf056510cc818e42cb652}{%
+           family={Aiqing},
+           familyi={A\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8b60d08155b40193a334176fa880f7a}{%
+           family={Xiaodong},
+           familyi={X\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0469b49e42158fb3328504daa9600f0}
+      \strng{fullhash}{d0469b49e42158fb3328504daa9600f0}
+      \strng{bibnamehash}{d0469b49e42158fb3328504daa9600f0}
+      \strng{authorbibnamehash}{d0469b49e42158fb3328504daa9600f0}
+      \strng{authornamehash}{d0469b49e42158fb3328504daa9600f0}
+      \strng{authorfullhash}{d0469b49e42158fb3328504daa9600f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{6}
+      \field{number}{140}
+      \field{title}{Towards Secure and Privacy-Preserving Data Sharing in e-Health Systems via Consortium Blockchain}
+      \field{volume}{42}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/s10916-018-0995-5
+      \endverb
+    \endentry
+    \entry{Bacon2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d1e1bf6687ad8aed4e7df9f2af4040a1}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abff60a86b14d5679558da41570c48e3}{%
+           family={Michels},
+           familyi={M\bibinitperiod},
+           given={Johan\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91c2d7c5151d983156f7c2204d5798ff}{%
+           family={Millard},
+           familyi={M\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a44253e98a486f8cd6997ca3903272}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Jatinder},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d84f4977ce855945a6906f977cb5d75}
+      \strng{fullhash}{49088db15ce782ccd494b621e4cb4204}
+      \strng{bibnamehash}{49088db15ce782ccd494b621e4cb4204}
+      \strng{authorbibnamehash}{49088db15ce782ccd494b621e4cb4204}
+      \strng{authornamehash}{3d84f4977ce855945a6906f977cb5d75}
+      \strng{authorfullhash}{49088db15ce782ccd494b621e4cb4204}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Richmond Journal of Law & Technology}
+      \field{number}{1}
+      \field{title}{Blockchain Demystified: A Technical an Legal Introduction to Distributed and Centralised Ledgers}
+      \field{volume}{25}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
     \entry{Finck2019}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=097d2abe01d9a68fd546644ddf980bd3}{%
@@ -190,36 +277,6 @@
       \field{year}{2019}
       \field{dateera}{ce}
     \endentry
-    \entry{Nakamoto2008}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1977190f018b398e43ede3de043de8ea}{%
-           family={Nakamoto},
-           familyi={N\bibinitperiod},
-           given={Satoshi},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {www.bitcoin.org}%
-      }
-      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
-      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
-      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
-      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
-      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
-      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
-      \field{type}{resreport}
-      \field{year}{2008}
-      \field{dateera}{ce}
-    \endentry
     \entry{Niaz2015}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d3ed6a0da3637b984fb1098764c35ae3}{%
@@ -255,64 +312,6 @@
       \field{type}{resreport}
       \field{year}{2015}
       \field{dateera}{ce}
-    \endentry
-    \entry{Nofer2017}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=da2c17d84f30e35f5da981907b3346a5}{%
-           family={Nofer},
-           familyi={N\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0f957a80d7332069cae1d2c5d2536bb8}{%
-           family={Gomber},
-           familyi={G\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=89b7c6cf134ca41ef0a96174c7642cc7}{%
-           family={Hinz},
-           familyi={H\bibinitperiod},
-           given={Oliver},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=526ba2fee005b53e7d2eeae289e5d5f3}{%
-           family={Schiereck},
-           familyi={S\bibinitperiod},
-           given={Dirk},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a657efc93b6e4361d0e1ab3a2dcc3ed1}
-      \strng{fullhash}{7f57d05280e98f1d721a80e2cac94cd0}
-      \strng{bibnamehash}{7f57d05280e98f1d721a80e2cac94cd0}
-      \strng{authorbibnamehash}{7f57d05280e98f1d721a80e2cac94cd0}
-      \strng{authornamehash}{a657efc93b6e4361d0e1ab3a2dcc3ed1}
-      \strng{authorfullhash}{7f57d05280e98f1d721a80e2cac94cd0}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1867-0202}
-      \field{journaltitle}{Business \& Information Systems Engineering}
-      \field{number}{3}
-      \field{title}{Blockchain}
-      \field{volume}{59}
-      \field{year}{2017}
-      \field{pages}{183\bibrangedash 187}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1007/s12599-017-0467-3
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s12599-017-0467-3
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s12599-017-0467-3
-      \endverb
     \endentry
     \entry{Pilkington2016}{article}{}
       \name{author}{1}{}{%
@@ -398,7 +397,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Pollefliet2011}
 \endrefsection
 \endinput
 

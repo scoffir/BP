@@ -85,4 +85,13 @@
   type        = {resreport},
 }
 
+@Article{Bacon2018,
+  author       = {Bacon, Jean and Michels, Johan David and Millard, Christopher and Singh, Jatinder},
+  date         = {2018},
+  journaltitle = {Richmond Journal of Law & Technology},
+  title        = {Blockchain Demystified: A Technical an Legal Introduction to Distributed and Centralised Ledgers},
+  number       = {1},
+  volume       = {25},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
